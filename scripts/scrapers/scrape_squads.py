@@ -22,7 +22,10 @@ def scrape_squad_standard_stats():
     teams = [
         {"name": "Arsenal", "url": "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats"},
         {"name": "Manchester City", "url": "https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats"},
-        {"name": "Manchester Utd", "url": "https://fbref.com/en/squads/19538871/Manchester-United-Stats"}
+        {"name": "Manchester Utd", "url": "https://fbref.com/en/squads/19538871/Manchester-United-Stats"},
+        {"name": "Brentford", "url": "https://fbref.com/en/squads/cd051869/Brentford-Stats"},
+        {"name": "Aston Villa", "url": "https://fbref.com/en/squads/8602292d/Aston-Villa-Stats"},
+        {"name": "West Ham", "url": "https://fbref.com/en/squads/7c21e445/West-Ham-United-Stats"}
     ]
     
     all_players_data = []
