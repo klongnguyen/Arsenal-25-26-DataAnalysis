@@ -48,7 +48,7 @@ def setup_tables():
     cursor = conn.cursor()
     
     # Xóa bảng cũ nếu tồn tại (theo thứ tự khóa ngoại)
-    tables = ['fixtures', 'goalkeepers', 'player_misc', 'player_playing_time', 'player_shooting', 'players', 'teams']
+    tables = ['historical_fixtures', 'historical_standings', 'fixtures', 'goalkeepers', 'player_misc', 'player_playing_time', 'player_shooting', 'players', 'teams']
     for table in tables:
         cursor.execute(f"""
         IF OBJECT_ID('{table}', 'U') IS NOT NULL 

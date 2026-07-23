@@ -34,7 +34,7 @@ def setup_historical_tables():
         id INT IDENTITY(1,1) PRIMARY KEY,
         season NVARCHAR(20),
         rank INT,
-        team NVARCHAR(100),
+        team_id INT FOREIGN KEY REFERENCES teams(team_id),
         matches INT,
         wins INT,
         draws INT,
@@ -58,7 +58,7 @@ def setup_historical_tables():
     CREATE TABLE historical_fixtures (
         id INT IDENTITY(1,1) PRIMARY KEY,
         season NVARCHAR(20),
-        team NVARCHAR(100),
+        team_id INT FOREIGN KEY REFERENCES teams(team_id),
         match_date DATE,
         comp NVARCHAR(100),
         match_round NVARCHAR(100),
@@ -77,6 +77,15 @@ def setup_historical_tables():
     cursor.close()
     conn.close()
 
+def get_or_create_team_id(cursor, team_name, team_cache):
+    if team_name in team_cache:
+        return team_cache[team_name]
+    
+    cursor.execute("INSERT INTO teams (team_name) OUTPUT INSERTED.team_id VALUES (?)", (team_name,))
+    new_id = int(cursor.fetchone()[0])
+    team_cache[team_name] = new_id
+    return new_id
+
 def insert_historical_data():
     conn = get_connection()
     cursor = conn.cursor()
@@ -91,16 +100,21 @@ def insert_historical_data():
         print("Lỗi: Không tìm thấy file dữ liệu JSON trong thư mục data.")
         return
         
+    # Preload team map
+    cursor.execute("SELECT team_name, team_id FROM teams")
+    team_cache = {row[0]: row[1] for row in cursor.fetchall()}
+
     print("Đang chèn dữ liệu historical_standings...")
     with open(standings_file, 'r', encoding='utf-8') as f:
         standings_data = json.load(f)
         
     for s in standings_data:
+        team_id = get_or_create_team_id(cursor, s['team'], team_cache)
         cursor.execute("""
-            INSERT INTO historical_standings (season, rank, team, matches, wins, draws, losses, goals_for, goals_against, goal_diff, points, xg, xga, xg_diff)
+            INSERT INTO historical_standings (season, rank, team_id, matches, wins, draws, losses, goals_for, goals_against, goal_diff, points, xg, xga, xg_diff)
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (
-            s['season'], s['rank'], s['team'], s['matches'], s['wins'], s['draws'], s['losses'],
+            s['season'], s['rank'], team_id, s['matches'], s['wins'], s['draws'], s['losses'],
             s['goals_for'], s['goals_against'], s['goal_diff'], s['points'],
             s.get('xg', 0.0), s.get('xga', 0.0), s.get('xg_diff', 0.0)
         ))
@@ -112,12 +126,13 @@ def insert_historical_data():
         fixtures_data = json.load(f)
         
     for fx in fixtures_data:
+        team_id = get_or_create_team_id(cursor, fx['team'], team_cache)
         match_date = fx['date'] if fx['date'] else None
         cursor.execute("""
-            INSERT INTO historical_fixtures (season, team, match_date, comp, match_round, venue, result, goals_for, goals_against, opponent, possession, xg_for, xg_against)
+            INSERT INTO historical_fixtures (season, team_id, match_date, comp, match_round, venue, result, goals_for, goals_against, opponent, possession, xg_for, xg_against)
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (
-            fx['season'], fx['team'], match_date, fx['comp'], fx['round'], fx['venue'], fx['result'],
+            fx['season'], team_id, match_date, fx['comp'], fx['round'], fx['venue'], fx['result'],
             str(fx['goals_for']), str(fx['goals_against']), fx['opponent'], fx.get('possession', 0),
             fx.get('xg_for', 0.0), fx.get('xg_against', 0.0)
         ))

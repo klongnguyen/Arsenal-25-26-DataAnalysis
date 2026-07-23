@@ -1,0 +1,1542 @@
+[
+    {
+        "season": "2014-2015",
+        "understat_team": "Aston Villa",
+        "xg": 33.1,
+        "xga": 49.71,
+        "xg_diff": -16.6
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Everton",
+        "xg": 44.89,
+        "xga": 46.18,
+        "xg_diff": -1.29
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Southampton",
+        "xg": 54.97,
+        "xga": 39.11,
+        "xg_diff": 15.85
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Leicester",
+        "xg": 48.21,
+        "xga": 56.39,
+        "xg_diff": -8.19
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "West Bromwich Albion",
+        "xg": 38.63,
+        "xga": 53.75,
+        "xg_diff": -15.12
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Sunderland",
+        "xg": 37.45,
+        "xga": 51.46,
+        "xg_diff": -14.02
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Crystal Palace",
+        "xg": 44.76,
+        "xga": 45.48,
+        "xg_diff": -0.73
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Chelsea",
+        "xg": 68.64,
+        "xga": 31.52,
+        "xg_diff": 37.12
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "West Ham",
+        "xg": 46.69,
+        "xga": 57.4,
+        "xg_diff": -10.71
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Tottenham",
+        "xg": 52.39,
+        "xga": 57.04,
+        "xg_diff": -4.66
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Arsenal",
+        "xg": 69.8,
+        "xga": 35.72,
+        "xg_diff": 34.08
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Swansea",
+        "xg": 40.9,
+        "xga": 55.94,
+        "xg_diff": -15.04
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Stoke",
+        "xg": 46.26,
+        "xga": 47.03,
+        "xg_diff": -0.77
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Newcastle United",
+        "xg": 40.22,
+        "xga": 51.01,
+        "xg_diff": -10.79
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Liverpool",
+        "xg": 51.7,
+        "xga": 38.25,
+        "xg_diff": 13.45
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Manchester City",
+        "xg": 75.82,
+        "xga": 40.5,
+        "xg_diff": 35.32
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Manchester United",
+        "xg": 54.21,
+        "xga": 39.84,
+        "xg_diff": 14.36
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Hull",
+        "xg": 32.79,
+        "xga": 46.99,
+        "xg_diff": -14.2
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Burnley",
+        "xg": 39.37,
+        "xga": 57.89,
+        "xg_diff": -18.52
+    },
+    {
+        "season": "2014-2015",
+        "understat_team": "Queens Park Rangers",
+        "xg": 45.73,
+        "xga": 65.26,
+        "xg_diff": -19.54
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Aston Villa",
+        "xg": 26.53,
+        "xga": 59.01,
+        "xg_diff": -32.48
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Everton",
+        "xg": 53.98,
+        "xga": 54.75,
+        "xg_diff": -0.77
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Bournemouth",
+        "xg": 38.71,
+        "xga": 53.97,
+        "xg_diff": -15.26
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Southampton",
+        "xg": 56.2,
+        "xga": 44.29,
+        "xg_diff": 11.91
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Leicester",
+        "xg": 68.42,
+        "xga": 45.02,
+        "xg_diff": 23.4
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "West Bromwich Albion",
+        "xg": 39.75,
+        "xga": 51.94,
+        "xg_diff": -12.18
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Sunderland",
+        "xg": 40.52,
+        "xga": 58.85,
+        "xg_diff": -18.33
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Crystal Palace",
+        "xg": 42.51,
+        "xga": 52.94,
+        "xg_diff": -10.43
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Norwich",
+        "xg": 39.19,
+        "xga": 58.93,
+        "xg_diff": -19.74
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Chelsea",
+        "xg": 54.48,
+        "xga": 44.63,
+        "xg_diff": 9.85
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "West Ham",
+        "xg": 54.4,
+        "xga": 55.48,
+        "xg_diff": -1.08
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Tottenham",
+        "xg": 63.42,
+        "xga": 37.08,
+        "xg_diff": 26.34
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Arsenal",
+        "xg": 73.53,
+        "xga": 33.86,
+        "xg_diff": 39.67
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Swansea",
+        "xg": 39.96,
+        "xga": 53.63,
+        "xg_diff": -13.68
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Stoke",
+        "xg": 42.63,
+        "xga": 54.35,
+        "xg_diff": -11.72
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Newcastle United",
+        "xg": 37.61,
+        "xga": 55.42,
+        "xg_diff": -17.82
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Liverpool",
+        "xg": 54.37,
+        "xga": 37.88,
+        "xg_diff": 16.48
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Manchester City",
+        "xg": 66.2,
+        "xga": 37.47,
+        "xg_diff": 28.73
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Manchester United",
+        "xg": 45.42,
+        "xga": 39.66,
+        "xg_diff": 5.77
+    },
+    {
+        "season": "2015-2016",
+        "understat_team": "Watford",
+        "xg": 43.2,
+        "xga": 51.85,
+        "xg_diff": -8.65
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Everton",
+        "xg": 49.63,
+        "xga": 45.78,
+        "xg_diff": 3.85
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Bournemouth",
+        "xg": 50.02,
+        "xga": 62.99,
+        "xg_diff": -12.98
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Southampton",
+        "xg": 49.98,
+        "xga": 43.08,
+        "xg_diff": 6.9
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Leicester",
+        "xg": 44.34,
+        "xga": 51.3,
+        "xg_diff": -6.96
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "West Bromwich Albion",
+        "xg": 38.21,
+        "xga": 47.9,
+        "xg_diff": -9.69
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Sunderland",
+        "xg": 34.22,
+        "xga": 65.66,
+        "xg_diff": -31.44
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Crystal Palace",
+        "xg": 45.4,
+        "xga": 50.03,
+        "xg_diff": -4.63
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Chelsea",
+        "xg": 61.8,
+        "xga": 28.62,
+        "xg_diff": 33.18
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "West Ham",
+        "xg": 48.25,
+        "xga": 59.67,
+        "xg_diff": -11.43
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Tottenham",
+        "xg": 70.07,
+        "xga": 33.78,
+        "xg_diff": 36.28
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Arsenal",
+        "xg": 63.58,
+        "xga": 47.07,
+        "xg_diff": 16.51
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Swansea",
+        "xg": 39.5,
+        "xga": 65.13,
+        "xg_diff": -25.63
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Stoke",
+        "xg": 47.87,
+        "xga": 48.67,
+        "xg_diff": -0.79
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Liverpool",
+        "xg": 66.63,
+        "xga": 37.65,
+        "xg_diff": 28.98
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Manchester City",
+        "xg": 79.85,
+        "xga": 29.61,
+        "xg_diff": 50.24
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Manchester United",
+        "xg": 57.57,
+        "xga": 31.62,
+        "xg_diff": 25.95
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Watford",
+        "xg": 36.25,
+        "xga": 52.62,
+        "xg_diff": -16.36
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Hull",
+        "xg": 33.84,
+        "xga": 71.77,
+        "xg_diff": -37.93
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Burnley",
+        "xg": 35.59,
+        "xga": 55.27,
+        "xg_diff": -19.68
+    },
+    {
+        "season": "2016-2017",
+        "understat_team": "Middlesbrough",
+        "xg": 30.93,
+        "xga": 55.3,
+        "xg_diff": -24.37
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Everton",
+        "xg": 43.71,
+        "xga": 55.5,
+        "xg_diff": -11.79
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Bournemouth",
+        "xg": 39.99,
+        "xga": 64.93,
+        "xg_diff": -24.94
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Southampton",
+        "xg": 41.88,
+        "xga": 46.56,
+        "xg_diff": -4.68
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Leicester",
+        "xg": 50.29,
+        "xga": 49.36,
+        "xg_diff": 0.93
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "West Bromwich Albion",
+        "xg": 35.18,
+        "xga": 48.99,
+        "xg_diff": -13.81
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Crystal Palace",
+        "xg": 56.75,
+        "xga": 53.54,
+        "xg_diff": 3.21
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Chelsea",
+        "xg": 59.16,
+        "xga": 34.03,
+        "xg_diff": 25.13
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "West Ham",
+        "xg": 36.8,
+        "xga": 58.37,
+        "xg_diff": -21.57
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Tottenham",
+        "xg": 68.91,
+        "xga": 35.86,
+        "xg_diff": 33.05
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Arsenal",
+        "xg": 72.27,
+        "xga": 48.75,
+        "xg_diff": 23.52
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Swansea",
+        "xg": 29.71,
+        "xga": 61.83,
+        "xg_diff": -32.12
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Stoke",
+        "xg": 36.75,
+        "xga": 65.54,
+        "xg_diff": -28.79
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Newcastle United",
+        "xg": 44.63,
+        "xga": 52.47,
+        "xg_diff": -7.85
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Liverpool",
+        "xg": 77.49,
+        "xga": 35.75,
+        "xg_diff": 41.73
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Manchester City",
+        "xg": 91.43,
+        "xga": 24.51,
+        "xg_diff": 66.92
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Manchester United",
+        "xg": 59.04,
+        "xga": 43.54,
+        "xg_diff": 15.5
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Watford",
+        "xg": 45.85,
+        "xga": 53.98,
+        "xg_diff": -8.13
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Burnley",
+        "xg": 32.77,
+        "xga": 52.16,
+        "xg_diff": -19.39
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Huddersfield",
+        "xg": 32.13,
+        "xga": 53.22,
+        "xg_diff": -21.08
+    },
+    {
+        "season": "2017-2018",
+        "understat_team": "Brighton",
+        "xg": 37.21,
+        "xga": 53.08,
+        "xg_diff": -15.87
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Everton",
+        "xg": 53.87,
+        "xga": 49.31,
+        "xg_diff": 4.56
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Bournemouth",
+        "xg": 58.81,
+        "xga": 62.42,
+        "xg_diff": -3.61
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Southampton",
+        "xg": 49.67,
+        "xga": 59.27,
+        "xg_diff": -9.6
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Leicester",
+        "xg": 52.11,
+        "xga": 44.64,
+        "xg_diff": 7.47
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Crystal Palace",
+        "xg": 50.64,
+        "xga": 52.8,
+        "xg_diff": -2.16
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Chelsea",
+        "xg": 63.97,
+        "xga": 38.11,
+        "xg_diff": 25.86
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "West Ham",
+        "xg": 47.96,
+        "xga": 65.66,
+        "xg_diff": -17.7
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Tottenham",
+        "xg": 61.75,
+        "xga": 49.15,
+        "xg_diff": 12.6
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Arsenal",
+        "xg": 64.8,
+        "xga": 57.3,
+        "xg_diff": 7.5
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Newcastle United",
+        "xg": 39.91,
+        "xga": 57.55,
+        "xg_diff": -17.63
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Liverpool",
+        "xg": 79.46,
+        "xga": 29.15,
+        "xg_diff": 50.31
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Manchester City",
+        "xg": 93.72,
+        "xga": 25.73,
+        "xg_diff": 67.99
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Manchester United",
+        "xg": 68.62,
+        "xga": 52.3,
+        "xg_diff": 16.32
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Watford",
+        "xg": 51.73,
+        "xga": 63.29,
+        "xg_diff": -11.56
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Burnley",
+        "xg": 44.74,
+        "xga": 66.12,
+        "xg_diff": -21.38
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Huddersfield",
+        "xg": 29.0,
+        "xga": 67.19,
+        "xg_diff": -38.19
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Brighton",
+        "xg": 37.03,
+        "xga": 62.46,
+        "xg_diff": -25.43
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Cardiff",
+        "xg": 41.77,
+        "xga": 66.5,
+        "xg_diff": -24.73
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Fulham",
+        "xg": 42.62,
+        "xga": 73.59,
+        "xg_diff": -30.96
+    },
+    {
+        "season": "2018-2019",
+        "understat_team": "Wolverhampton Wanderers",
+        "xg": 53.06,
+        "xga": 42.69,
+        "xg_diff": 10.37
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Aston Villa",
+        "xg": 45.09,
+        "xga": 71.6,
+        "xg_diff": -26.51
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Everton",
+        "xg": 53.71,
+        "xga": 49.21,
+        "xg_diff": 4.5
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Bournemouth",
+        "xg": 44.67,
+        "xga": 63.29,
+        "xg_diff": -18.62
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Southampton",
+        "xg": 56.5,
+        "xga": 56.59,
+        "xg_diff": -0.1
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Leicester",
+        "xg": 61.02,
+        "xga": 47.89,
+        "xg_diff": 13.12
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Crystal Palace",
+        "xg": 34.45,
+        "xga": 57.39,
+        "xg_diff": -22.94
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Norwich",
+        "xg": 37.23,
+        "xga": 71.61,
+        "xg_diff": -34.37
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Chelsea",
+        "xg": 76.23,
+        "xga": 41.09,
+        "xg_diff": 35.14
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "West Ham",
+        "xg": 49.07,
+        "xga": 68.32,
+        "xg_diff": -19.25
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Tottenham",
+        "xg": 49.02,
+        "xga": 54.13,
+        "xg_diff": -5.11
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Arsenal",
+        "xg": 50.82,
+        "xga": 57.25,
+        "xg_diff": -6.43
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Newcastle United",
+        "xg": 36.49,
+        "xga": 67.03,
+        "xg_diff": -30.54
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Liverpool",
+        "xg": 75.19,
+        "xga": 39.57,
+        "xg_diff": 35.62
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Manchester City",
+        "xg": 102.21,
+        "xga": 37.0,
+        "xg_diff": 65.21
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Manchester United",
+        "xg": 66.19,
+        "xga": 38.06,
+        "xg_diff": 28.13
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Watford",
+        "xg": 48.56,
+        "xga": 59.53,
+        "xg_diff": -10.97
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Burnley",
+        "xg": 49.35,
+        "xga": 53.84,
+        "xg_diff": -4.49
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Brighton",
+        "xg": 47.42,
+        "xga": 60.42,
+        "xg_diff": -12.99
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Wolverhampton Wanderers",
+        "xg": 54.22,
+        "xga": 37.39,
+        "xg_diff": 16.83
+    },
+    {
+        "season": "2019-2020",
+        "understat_team": "Sheffield United",
+        "xg": 45.81,
+        "xga": 52.04,
+        "xg_diff": -6.23
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Aston Villa",
+        "xg": 56.72,
+        "xga": 53.25,
+        "xg_diff": 3.46
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Everton",
+        "xg": 49.24,
+        "xga": 50.16,
+        "xg_diff": -0.93
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Southampton",
+        "xg": 45.28,
+        "xga": 58.55,
+        "xg_diff": -13.26
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Leicester",
+        "xg": 58.8,
+        "xga": 47.07,
+        "xg_diff": 11.74
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "West Bromwich Albion",
+        "xg": 34.97,
+        "xga": 74.04,
+        "xg_diff": -39.07
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Crystal Palace",
+        "xg": 35.29,
+        "xga": 61.9,
+        "xg_diff": -26.62
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Chelsea",
+        "xg": 68.66,
+        "xga": 30.9,
+        "xg_diff": 37.75
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "West Ham",
+        "xg": 60.34,
+        "xga": 49.86,
+        "xg_diff": 10.48
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Tottenham",
+        "xg": 56.68,
+        "xga": 52.55,
+        "xg_diff": 4.12
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Arsenal",
+        "xg": 52.25,
+        "xga": 43.23,
+        "xg_diff": 9.02
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Newcastle United",
+        "xg": 43.96,
+        "xga": 60.02,
+        "xg_diff": -16.06
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Liverpool",
+        "xg": 72.21,
+        "xga": 47.3,
+        "xg_diff": 24.9
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Manchester City",
+        "xg": 77.72,
+        "xga": 30.61,
+        "xg_diff": 47.1
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Manchester United",
+        "xg": 63.17,
+        "xga": 41.92,
+        "xg_diff": 21.25
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Burnley",
+        "xg": 38.13,
+        "xga": 59.06,
+        "xg_diff": -20.93
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Brighton",
+        "xg": 53.82,
+        "xga": 39.91,
+        "xg_diff": 13.91
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Fulham",
+        "xg": 41.06,
+        "xga": 57.64,
+        "xg_diff": -16.58
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Wolverhampton Wanderers",
+        "xg": 38.62,
+        "xga": 52.19,
+        "xg_diff": -13.58
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Sheffield United",
+        "xg": 33.16,
+        "xga": 66.11,
+        "xg_diff": -32.95
+    },
+    {
+        "season": "2020-2021",
+        "understat_team": "Leeds",
+        "xg": 59.26,
+        "xga": 63.02,
+        "xg_diff": -3.76
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Aston Villa",
+        "xg": 43.13,
+        "xga": 53.1,
+        "xg_diff": -9.97
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Everton",
+        "xg": 44.47,
+        "xga": 60.69,
+        "xg_diff": -16.22
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Southampton",
+        "xg": 47.35,
+        "xga": 64.56,
+        "xg_diff": -17.21
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Leicester",
+        "xg": 49.49,
+        "xga": 66.11,
+        "xg_diff": -16.62
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Crystal Palace",
+        "xg": 48.84,
+        "xga": 41.33,
+        "xg_diff": 7.51
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Norwich",
+        "xg": 31.51,
+        "xga": 80.08,
+        "xg_diff": -48.56
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Chelsea",
+        "xg": 69.3,
+        "xga": 35.12,
+        "xg_diff": 34.18
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "West Ham",
+        "xg": 54.98,
+        "xga": 53.88,
+        "xg_diff": 1.11
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Tottenham",
+        "xg": 67.95,
+        "xga": 43.7,
+        "xg_diff": 24.25
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Arsenal",
+        "xg": 63.39,
+        "xga": 48.39,
+        "xg_diff": 15.0
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Newcastle United",
+        "xg": 41.53,
+        "xga": 62.71,
+        "xg_diff": -21.19
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Liverpool",
+        "xg": 93.02,
+        "xga": 32.73,
+        "xg_diff": 60.29
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Manchester City",
+        "xg": 93.4,
+        "xga": 25.21,
+        "xg_diff": 68.19
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Manchester United",
+        "xg": 57.21,
+        "xga": 56.85,
+        "xg_diff": 0.36
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Watford",
+        "xg": 39.34,
+        "xga": 67.53,
+        "xg_diff": -28.19
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Burnley",
+        "xg": 41.11,
+        "xga": 60.22,
+        "xg_diff": -19.12
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Brighton",
+        "xg": 49.57,
+        "xga": 47.21,
+        "xg_diff": 2.36
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Wolverhampton Wanderers",
+        "xg": 39.04,
+        "xga": 58.48,
+        "xg_diff": -19.44
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Brentford",
+        "xg": 52.89,
+        "xga": 49.5,
+        "xg_diff": 3.39
+    },
+    {
+        "season": "2021-2022",
+        "understat_team": "Leeds",
+        "xg": 51.19,
+        "xga": 71.31,
+        "xg_diff": -20.12
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Aston Villa",
+        "xg": 50.0,
+        "xga": 53.96,
+        "xg_diff": -3.96
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Everton",
+        "xg": 48.65,
+        "xga": 68.58,
+        "xg_diff": -19.93
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Bournemouth",
+        "xg": 40.08,
+        "xga": 67.6,
+        "xg_diff": -27.52
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Southampton",
+        "xg": 39.27,
+        "xga": 62.9,
+        "xg_diff": -23.63
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Leicester",
+        "xg": 48.99,
+        "xga": 59.79,
+        "xg_diff": -10.8
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Crystal Palace",
+        "xg": 40.72,
+        "xga": 51.63,
+        "xg_diff": -10.9
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Chelsea",
+        "xg": 51.89,
+        "xga": 54.02,
+        "xg_diff": -2.13
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "West Ham",
+        "xg": 51.21,
+        "xga": 55.31,
+        "xg_diff": -4.1
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Tottenham",
+        "xg": 57.83,
+        "xga": 51.66,
+        "xg_diff": 6.17
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Arsenal",
+        "xg": 76.51,
+        "xga": 45.16,
+        "xg_diff": 31.35
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Newcastle United",
+        "xg": 76.98,
+        "xga": 41.86,
+        "xg_diff": 35.12
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Liverpool",
+        "xg": 80.77,
+        "xga": 55.77,
+        "xg_diff": 25.0
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Manchester City",
+        "xg": 84.32,
+        "xga": 34.21,
+        "xg_diff": 50.11
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Manchester United",
+        "xg": 71.9,
+        "xga": 50.29,
+        "xg_diff": 21.61
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Brighton",
+        "xg": 77.72,
+        "xga": 50.15,
+        "xg_diff": 27.57
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Fulham",
+        "xg": 47.98,
+        "xga": 71.49,
+        "xg_diff": -23.51
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Wolverhampton Wanderers",
+        "xg": 35.13,
+        "xga": 62.68,
+        "xg_diff": -27.56
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Brentford",
+        "xg": 59.23,
+        "xga": 51.45,
+        "xg_diff": 7.77
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Leeds",
+        "xg": 47.8,
+        "xga": 69.58,
+        "xg_diff": -21.79
+    },
+    {
+        "season": "2022-2023",
+        "understat_team": "Nottingham Forest",
+        "xg": 39.57,
+        "xga": 68.46,
+        "xg_diff": -28.88
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Aston Villa",
+        "xg": 67.42,
+        "xga": 65.08,
+        "xg_diff": 2.35
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Everton",
+        "xg": 60.75,
+        "xga": 60.26,
+        "xg_diff": 0.5
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Bournemouth",
+        "xg": 63.76,
+        "xga": 65.51,
+        "xg_diff": -1.75
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Crystal Palace",
+        "xg": 53.94,
+        "xga": 57.99,
+        "xg_diff": -4.06
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Chelsea",
+        "xg": 80.88,
+        "xga": 62.6,
+        "xg_diff": 18.28
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "West Ham",
+        "xg": 54.53,
+        "xga": 77.91,
+        "xg_diff": -23.38
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Tottenham",
+        "xg": 73.35,
+        "xga": 68.07,
+        "xg_diff": 5.29
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Arsenal",
+        "xg": 84.39,
+        "xga": 31.78,
+        "xg_diff": 52.61
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Newcastle United",
+        "xg": 84.48,
+        "xga": 62.46,
+        "xg_diff": 22.02
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Liverpool",
+        "xg": 94.79,
+        "xga": 47.4,
+        "xg_diff": 47.39
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Manchester City",
+        "xg": 89.55,
+        "xga": 37.27,
+        "xg_diff": 52.28
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Manchester United",
+        "xg": 60.33,
+        "xga": 74.76,
+        "xg_diff": -14.43
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Burnley",
+        "xg": 43.44,
+        "xga": 75.72,
+        "xg_diff": -32.28
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Brighton",
+        "xg": 61.91,
+        "xga": 60.94,
+        "xg_diff": 0.97
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Fulham",
+        "xg": 52.81,
+        "xga": 66.9,
+        "xg_diff": -14.1
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Wolverhampton Wanderers",
+        "xg": 50.65,
+        "xga": 76.11,
+        "xg_diff": -25.45
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Sheffield United",
+        "xg": 41.31,
+        "xga": 85.71,
+        "xg_diff": -44.4
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Brentford",
+        "xg": 64.29,
+        "xga": 60.26,
+        "xg_diff": 4.03
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Nottingham Forest",
+        "xg": 52.16,
+        "xga": 56.25,
+        "xg_diff": -4.09
+    },
+    {
+        "season": "2023-2024",
+        "understat_team": "Luton",
+        "xg": 49.87,
+        "xga": 91.65,
+        "xg_diff": -41.78
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Aston Villa",
+        "xg": 66.39,
+        "xga": 55.0,
+        "xg_diff": 11.39
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Everton",
+        "xg": 46.87,
+        "xga": 53.66,
+        "xg_diff": -6.79
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Bournemouth",
+        "xg": 72.62,
+        "xga": 53.99,
+        "xg_diff": 18.63
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Southampton",
+        "xg": 38.63,
+        "xga": 98.35,
+        "xg_diff": -59.72
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Leicester",
+        "xg": 38.06,
+        "xga": 85.89,
+        "xg_diff": -47.83
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Crystal Palace",
+        "xg": 67.78,
+        "xga": 58.88,
+        "xg_diff": 8.9
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Chelsea",
+        "xg": 73.12,
+        "xga": 54.26,
+        "xg_diff": 18.86
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "West Ham",
+        "xg": 50.59,
+        "xga": 68.09,
+        "xg_diff": -17.5
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Tottenham",
+        "xg": 65.36,
+        "xga": 68.23,
+        "xg_diff": -2.87
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Arsenal",
+        "xg": 73.57,
+        "xga": 39.98,
+        "xg_diff": 33.59
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Newcastle United",
+        "xg": 71.48,
+        "xga": 53.98,
+        "xg_diff": 17.5
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Liverpool",
+        "xg": 93.24,
+        "xga": 42.32,
+        "xg_diff": 50.92
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Manchester City",
+        "xg": 73.15,
+        "xga": 52.9,
+        "xg_diff": 20.25
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Manchester United",
+        "xg": 56.91,
+        "xga": 60.73,
+        "xg_diff": -3.82
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Brighton",
+        "xg": 65.28,
+        "xga": 59.12,
+        "xg_diff": 6.15
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Fulham",
+        "xg": 58.0,
+        "xga": 49.23,
+        "xg_diff": 8.77
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Wolverhampton Wanderers",
+        "xg": 45.37,
+        "xga": 61.57,
+        "xg_diff": -16.2
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Brentford",
+        "xg": 67.12,
+        "xga": 60.86,
+        "xg_diff": 6.25
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Nottingham Forest",
+        "xg": 52.75,
+        "xga": 55.92,
+        "xg_diff": -3.17
+    },
+    {
+        "season": "2024-2025",
+        "understat_team": "Ipswich",
+        "xg": 40.42,
+        "xga": 83.73,
+        "xg_diff": -43.31
+    }
+]
