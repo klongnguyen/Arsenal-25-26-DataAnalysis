@@ -142,7 +142,9 @@ def setup_tables():
         attendance INT,
         captain NVARCHAR(100),
         formation NVARCHAR(50),
-        opp_formation NVARCHAR(50)
+        opp_formation NVARCHAR(50),
+        xg_for FLOAT,
+        xg_against FLOAT
     )
     """)
     

@@ -2,6 +2,7 @@ import pyodbc
 import json
 import os
 import sys
+sys.stdout.reconfigure(encoding='utf-8')
 
 def get_connection(db_name=None):
     server = r'LAPTOP-8I1OVUBF\SQLEXPRESS'
@@ -56,9 +57,11 @@ def update_xg_data():
         season = t['season']
         
         cursor.execute("""
-            UPDATE historical_standings 
-            SET xg = ?, xga = ?, xg_diff = ?
-            WHERE team = ? AND season = ?
+            UPDATE hs 
+            SET hs.xg = ?, hs.xga = ?, hs.xg_diff = ?
+            FROM historical_standings hs
+            JOIN teams t ON hs.team_id = t.team_id
+            WHERE t.team_name = ? AND hs.season = ?
         """, (t['xg'], t['xga'], t['xg_diff'], fbref_team, season))
         
     print("Đã cập nhật bảng historical_standings!")
@@ -74,9 +77,11 @@ def update_xg_data():
         match_date = m['date']
         
         cursor.execute("""
-            UPDATE historical_fixtures
-            SET xg_for = ?, xg_against = ?
-            WHERE team = ? AND season = ? AND match_date = ?
+            UPDATE hf
+            SET hf.xg_for = ?, hf.xg_against = ?
+            FROM historical_fixtures hf
+            JOIN teams t ON hf.team_id = t.team_id
+            WHERE t.team_name = ? AND hf.season = ? AND hf.match_date = ?
         """, (m['xg_for'], m['xg_against'], fbref_team, season, match_date))
         
     print("Đã cập nhật bảng historical_fixtures!")
