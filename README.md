@@ -24,7 +24,10 @@ Dự án này được xây dựng theo chuẩn quy trình **End-to-End Data Ana
 *   **Kỹ thuật:** Kết nối trực tiếp với SQL Server, xây dựng mô hình dữ liệu (Data Model), viết các biểu thức tính toán phân tích (DAX Measures), thiết kế UI/UX theo chủ đề "Emirates Night"
 
 
-**Câu hỏi kinh doanh:** Những yếu tố nào khiến chức vô địch của Arsenal bị đánh giá thấp so với các nhà vô địch tiền nhiệm?
+> [!IMPORTANT]
+> **CÂU HỎI KINH DOANH:**
+> 
+> *Những yếu tố nào khiến chức vô địch của Arsenal bị đánh giá thấp so với các nhà vô địch tiền nhiệm?*
 
 ---
 
