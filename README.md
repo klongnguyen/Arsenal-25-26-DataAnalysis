@@ -4,7 +4,27 @@
 
 # BÁO CÁO PHÂN TÍCH: CHỨC VÔ ĐỊCH PREMIER LEAGUE 25/26 CỦA ARSENAL
 
-**Câu hỏi kinh doanh (Business Question):** Những yếu tố nào khiến chức vô địch của Arsenal bị đánh giá thấp so với các nhà vô địch tiền nhiệm?
+## CÔNG NGHỆ & QUY TRÌNH DỮ LIỆU
+
+Dự án này được xây dựng theo chuẩn quy trình **End-to-End Data Analytics**, từ khâu thu thập dữ liệu thô trên web cho đến thiết kế cơ sở dữ liệu và xây dựng bảng điều khiển (Dashboard) tương tác.
+
+### 1. Nguồn dữ liệu 
+*   **FBref:** Lấy toàn bộ dữ liệu thống kê chuyên sâu (Advanced Stats) bao gồm Standard Stats, Shooting, Goalkeeping, Playing Time, Miscellaneous Stats,... của Arsenal mùa giải 25/26 và dữ liệu của các nhà vô địch Premier League trong 10 năm gần nhất.
+
+### 2. Công cụ Cào dữ liệu (Web Scraping)
+*   **Ngôn ngữ:** Python 🐍
+*   **Công nghệ:** Sử dụng thư viện `scrapling` (cụ thể là `StealthyFetcher`) để bypass cơ chế chống bot Cloudflare của FBref. Dữ liệu thô trên web được bóc tách và xuất ra các file định dạng JSON.
+
+### 3. Lưu trữ & Quản trị Dữ liệu (Database)
+*   **Hệ quản trị CSDL:** Microsoft SQL Server.
+*   **Quy trình ETL:** Các script Python (`pyodbc`) tự động đọc file JSON, thực hiện làm sạch dữ liệu (chuẩn hóa tên, xử lý null/lỗi type) và Load vào Database. CSDL được thiết kế chặt chẽ theo mô hình quan hệ.
+
+### 4. Trực quan hóa dữ liệu (Data Visualization)
+*   **Công cụ:** Microsoft Power BI.
+*   **Kỹ thuật:** Kết nối trực tiếp với SQL Server, xây dựng mô hình dữ liệu (Data Model), viết các biểu thức tính toán phân tích (DAX Measures), thiết kế UI/UX theo chủ đề "Emirates Night"
+
+
+**Câu hỏi kinh doanh:** Những yếu tố nào khiến chức vô địch của Arsenal bị đánh giá thấp so với các nhà vô địch tiền nhiệm?
 
 ---
 
@@ -59,3 +79,6 @@ Mô hình "nhà vô địch thực dụng" này tiềm ẩn rủi ro cực lớn
 1. Cần mua gấp một **Tiền vệ Sáng tạo** đủ đẳng cấp để phá vỡ các khối phòng ngự lùi sâu vừa san sẻ gánh nặng cho Odegaard.
 2. Cần một **Tiền đạo Cắm** có khả năng tự làm bàn xuất chúng để cải thiện triệt để số lượng bàn thắng từ bóng sống, giúp đội bóng kết liễu trận đấu sớm thay vì phải phòng ngự thót tim trong những phút cuối.
 3. Cần có phương án Backup đủ chất lượng cho Saliba và Gabriel khi 1 trong 2 hoặc cả 2 cầu thủ này không có mặt trên sân.
+
+---
+
